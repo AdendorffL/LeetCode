@@ -16,7 +16,7 @@ A collection of my solutions to LeetCode problems.
 
 | # | Title | Solution(s) | Difficulty |
 |--:|:------|:------------|:-----------|
-| 1 | Roman to Integer | [Python](Easy - Roman to Integer Coversion.py) | Easy |
+| 1 | Roman to Integer | [Python](../Easy - Roman to Integer Coversion.py) | Easy |
 
 
 ---
