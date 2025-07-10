@@ -16,7 +16,7 @@ A collection of my solutions to LeetCode problems.
 
 | # | Title | Solution(s) | Difficulty |
 |--:|:------|:------------|:-----------|
-| 1 | Roman to Integer | [Python](./0001-two-sum/two_sum.py) | Easy |
+| 1 | Roman to Integer | [Python](Easy - Roman to Integer Coversion.py) | Easy |
 
 
 ---
