@@ -6,7 +6,7 @@ A collection of my solutions to LeetCode problems.
 
 ## 📌 Progress
 
-- ✅ Total Solved: 1
+- ✅ Total Solved: 2
 - 💪 Languages: Python
 - 🗂️ Organized by difficulty
 
